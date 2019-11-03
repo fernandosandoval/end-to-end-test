@@ -1,0 +1,64 @@
+May I collect your health information so <%provider%> can get to know <%person%> before your visit? Yes
+I am filling out this paperwork for my: Self
+Please confirm <%person-possessive%> date of birth? 11/17/76
+Can you confirm <%person-possessive%> first and last legal name? Dave Grohl
+Gender? Male
+What is the main reason or concern for your upcoming visit with <%provider%>? None of the above
+Do you have a bedroom partner? No
+What time do you go to bed? 12am
+What time do you wake up in the morning? 9am
+How long does it take for you to fall asleep? Minutes
+In the previous question you answered minutes, approximately how many minutes? 20 minutes
+Do you wake up in the middle of the night? No
+Do you wake up feeling rested? No
+Do you take medication to help you sleep? No
+How much caffeine do you consume in a day? 8
+Do you take naps during the day? No
+ESS
+Do you snore loudly? No
+Do you wake up gasping, choking, or coughing? No
+Do you stop breathing in your sleep? No
+Do you wake with dry mouth? No
+Do you grind your teeth? No
+Do you frequently wake with a headache? No
+Do you have problems with sleepiness during the day? No
+Do you have problems with fatigue during the day? No
+Do you ever feel drowsy while driving during the day? No
+Do you have muscle weakness with strong emotions? No
+Do you have dream-like hallucinations when falling asleep or waking up? No
+Do you have feeling paralyzed when falling asleep or waking up? No
+Do you have any of the following conditions/symptoms? None of the above
+Do you have any of the following conditions/symptoms? None of the above
+Do you have any of the following conditions/symptoms? None of the above
+Do you have any of the following symptoms or items that apply to you? None of the above
+Do you have any of the following symptoms or items that apply to you during the daytime? None of the above
+Do you take ANY medications (prescribed)? No
+Do you have any medication allergies? No
+Do you have any non-medication allergies? No
+Have you ever been diagnosed with any of these conditions? None of the above
+Have you been diagnosed with other medical conditions that you haven't already selected? No 
+Select any SURGERY or PROCEDURE you've had in the past: None
+What is your tobacco smoking status? Never smoker
+Do you use smokeless tobacco? Never used smokeless tobacco
+Do you use E-cigarette / Vape products? Never
+Let's discuss your family history information. Next
+Do you have any family members that have the following conditions? None of the above
+Let's discuss your demographic information.
+<%DoDoes%> <%person%> have a driver's license? No
+Would you like to take a picture of <%person-possessive%> driver's license: Manually type
+What is <%person-possessive%> address? 1600 Penn Ave, Washington, DC 20500
+<%IsAre%> <%person%>: Unemployed
+What is the best way to contact? Cell phone
+What best describes <%person-possessive%> race? White
+What best describes <%person-possessive%> ethnicity? Hispanic or Latino / Spanish
+What language do <%person%> primarily speak? Spanish
+What is <%person-possessive%> current marital status? Single
+What is the first and last name of <%person-possessive%> emergency contact? Linda White
+Is <%person-possessive%> emergency contact <%person-possessive%>: Spouse
+What is <%person-possessive%> emergency contact's mobile phone number? (415)706-2222
+<%DoDoes%> <%person%> have a: None
+Will you be the person responsible for paying for this visit? Yes
+<%DoDoes%> <%person%> have insurance? No
+How did <%person%> hear about us? Advertising
+Please read our privacy carefully 
+By signing below

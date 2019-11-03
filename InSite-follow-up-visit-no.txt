@@ -1,0 +1,41 @@
+Hi <%firstname%>, may I collect your health information so <%provider%> can get to know you before your visit?: Yes
+What is the main reason or concern for your upcoming visit with <%provider%>?: Abdominal pain
+Since your last visit, has there been any change in your: none
+Have you ever had an abdominal: None
+Have you ever had a(n): None of the above
+Do you have any medication allergies? No
+Do you have any non-medication allergies?: No
+Do you use home oxygen?: No
+Do you use a wheelchair or walker?: No
+About how many years ago was your most recent blood test? Unsure
+Have you undergone any radiation therapy?: No
+Have you had any recent vaccine / immunizations?: No
+Do you: None of the above
+How many times per week do you exercise?: Never
+Have you ever been diagnosed with any of these heart or lung related conditions?: None of the above
+Have you ever been diagnosed with any of these conditions?: None of the above
+I'm going to review your body systems from head to toe with you to check if you have had any concerning symptoms.
+Are you having any of these general symptoms: None of the above
+Do you have any of the following ABDOMINAL symptoms?: None of the above
+Do you have concerns about your EYES or VISION?: No
+Do you have concerns about your EARS or NOSE or THROAT?: No
+Do you have concerns about your BREATHING or LUNGS?: No
+Do you have concerns about your CHEST or HEART?: No
+Do you have concerns relating to URINATION or GENITALS?: No
+Do you have any concerns related to BLEEDING, BRUISING, LUMPS OR BUMPS: No
+Do you have any concerns related to your SKIN?: No
+Do you have any HORMONE related concerns?: No
+Do you have any concerns related to your MUSCLES or JOINTS?: No
+Do you have any MENTAL HEALTH concerns you are currently dealing with: No
+Do you have any concerns related to your NERVOUS SYSTEM: No
+Let's discuss your family history information. You can stop and continue where you left off at any time.
+Have any of these family members passed away (died)?: None
+Do you have 1st or 2nd-degree family diagnosed with: None of the above
+Please confirm your date of birth?: 11/17/76
+Is there a pharmacy you would prefer?: No
+Did a physician refer you to our office?: No
+Are you: Employed
+What do you do for work? Where do you work?: Chef
+Can we leave test results or medical information messages for you on your home phone or cell phone voicemail?: No
+Do you have a durable power of attorney for healthcare decision, POLST (physician orders for life sustaining treatment) or similar end-of-life instruction form? No
+Do you have any other questions or concerns before your appointment?: No

@@ -1,0 +1,71 @@
+Hi <%firstname%>, may I collect your health information so <%provider%> can get to know you before your visit?: Yes
+Have you ever had an abdominal : None
+Have you ever had a(n): None of the above
+Are you taking any medication?: No
+Do you have any medication allergies?: No
+Do you have any non-medication allergies?: No
+Do you use home oxygen?: No
+Do you use a wheelchair or walker?: No
+About how many years ago was your most recent blood test? Unsure
+Have you undergone any radiation therapy?: No
+Have you had any recent vaccine / immunizations?: No
+Do you: None of the above
+How many cups of coffee, tea and/or soda do you drink daily?: Unsure
+How many times per week do you exercise?: Never
+Have you ever been diagnosed with any of these heart or lung related conditions?: None of the above
+Have you ever been diagnosed with any of these conditions?: None of the above
+Have you ever been diagnosed with any other medical conditions that you have not already selected?: No
+Great job! You're about half done. I finished gathering your medical history section. We have two more sections. You may take a break and pick up at any point. Everything is automatically saved.
+I'm going to review your body systems from head to toe with you to check if you have had any concerning symptoms.
+Are you having any of these general symptoms: None of the above
+Do you have any of the following ABDOMINAL symptoms?: None of the above                    
+What other symptoms?: Bleeding
+Do you have concerns about your EYES or VISION?: None of the above
+Vision: All
+Do you have concerns about your EARS or NOSE or THROAT?: No
+Do you have concerns about your BREATHING or LUNGS?: No
+Do you have concerns about your CHEST or HEART?: No
+Do you have concerns relating to URINATION or GENITALS?: No
+Do you have any concerns related to BLEEDING, BRUISING, LUMPS OR BUMPS: No
+Do you have any concerns related to your SKIN?: No
+Do you have any HORMONE related concerns?: No
+Do you have any concerns related to your MUSCLES or JOINTS?: No
+Do you have any MENTAL HEALTH concerns you are currently dealing with: No
+Do you have any concerns related to your NERVOUS SYSTEM: No
+Let's discuss your family history information. You can stop and continue where you left off at any time.
+Have any of these family members passed away (died)?: None
+Do you have 1st or 2nd-degree family diagnosed with: None of the above
+Let's discuss your demographic information. You can stop and continue where you left off at any time.
+What language do you primarily speak?: Spanish
+Please confirm your date of birth?: 11/17/76
+Gender?: Male
+What is your current weight?: 180
+How tall are you?: 5 ft 5 in
+Do you have a driver license?: No
+What is your address? 1600 Pennsylvania Avenue Northwest, Washington DC. 20500
+Is there a pharmacy you would prefer?: No
+Did a physician refer you to our office?: No
+Are you: Unemployed
+Do you have a home phone that is different from this phone number?: No
+What is your e-mail address? fernando@healthnote.com
+What is the best way to contact you?: Cell phone
+Which race best describes you?: White
+Which ethnicity best describes you?: Hispanic or Latino/Spanish
+What is your current marital status?: Single
+How did you hear about us?: Hospital
+What is the first and last name of your emergency contact?: John White
+Is your emergency contact your : Friend
+What is your emergency contact's mobile phone number?: (415) 706-9495
+Do you have a: None
+Do you have health insurance?: No
+Would you like to allow your protected health information to be given or shared by family or friends involved with your care?: No
+Can we leave test results or medical information messages for you on your home phone or cell phone voicemail?: No
+Do you have a durable power of attorney for healthcare decision, POLST (physician orders for life sustaining treatment) or similar end-of-life instruction form?: No
+Does our cancellation policy make sense for you?: Yes
+Do you have any other questions or concerns before your appointment?: No
+Please read our cancellation policy carefully
+
+
+
+
+

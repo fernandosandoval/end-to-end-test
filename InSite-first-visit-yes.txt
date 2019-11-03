@@ -1,0 +1,217 @@
+Hi <%firstname%>, may I collect your health information so <%provider%> can get to know you before your visit?: Yes
+Have you ever had an abdominal : All
+What other abdominal procedure have you had?: Laparoscopy
+About how many years ago was your ultrasound?: 4
+About how many years ago was your X-Ray?: 5
+About how many years ago was your CT Scan?: 6-9
+About how many years ago was your MRI?: 10+
+About how many years ago was your Barium swallow procedure?: 2
+About how many years ago was your Laparoscopy? Unsure
+Have you ever had a(n): All
+About how many years ago was your colonoscopy?: 3
+Why did you have one?: All
+I noticed you selected \"other\" reasons. Please share more details: Colon issues
+Do you remember the name of the physician who performed the colonoscopy?: Yes
+What was the name of the physician who performed it?: John White
+Please select which surgery(s) or procedure(s) you have had in the past: All
+I noticed you selected other surgical procedure(s). Please share them: Heart Transplant
+Please select which reaction(s) you had to anesthesia?: All
+I noticed you selected \"other\" anesthesia reactions. Please share more details: Sleep
+Are you taking any medication?: Yes
+Name of medication: Coumadin 2.5 mg 4/day, Bionect 30g of 0.2% 3/day
+Do you have any medication allergies?: Yes
+Which medication(s) are you allergic to?: penicillin
+What was the reaction?: Rush
+Any more drug allergies?: No
+Do you have any non-medication allergies?: Yes
+Please describe your allergies: bee sting
+Do you use home oxygen?: Yes
+Do you use a wheelchair or walker?: Yes
+About how many years ago was your most recent blood test? 3
+Have you undergone any radiation therapy?: Yes
+Have you had any recent vaccine / immunizations?: Yes
+Which one?: All
+Which other recent vaccine / immunizations?: Influenza
+About how many years ago for the <%immuno-history-other%>?: 5
+About how many years ago for the Flu?: 4
+About how many years ago for Pneumonia?: 3
+About how many years ago for Shingles/Zoster?: 2
+About how many years ago for Hepatitis A?: 6-9
+About how many years ago for Hepatitis B?: 10+
+Do you: All
+How many cups of coffee, tea and/or soda do you drink daily?: 3
+Which illicit drugs?: All
+I noticed you selected other illicit drugs. Please share all here: LSD
+Do you currently smoke?: Yes
+About how many cigarettes per day do you smoke?: 10
+About how many alcoholic drinks do you have per week?: 5
+How many times per week do you exercise?: 7
+Have you ever been diagnosed with any of these heart or lung related conditions?: All
+Have you ever been diagnosed with any of these conditions?: All
+I noticed you selected \"Cancer\". What type of cancer?: Lung Cancer
+Have you ever been diagnosed with any other medical conditions that you have not already selected?: Yes
+Please tell me what other medical conditions you have been diagnosed with: Vitiligo
+Great job! You're about half done. I finished gathering your medical history section. We have two more sections. You may take a break and pick up at any point. Everything is automatically saved.
+I'm going to review your body systems from head to toe with you to check if you have had any concerning symptoms.
+Are you having any of these general symptoms: All
+Do you have any of the following ABDOMINAL symptoms?: All
+What other symptoms?: Bleeding
+Do you have concerns about your EYES or VISION?: Yes
+Vision: All
+Do you have concerns about your EARS or NOSE or THROAT?: Yes
+Ear/Nose: All
+Do you have concerns about your BREATHING or LUNGS?: Yes
+Breathing: All
+Do you have concerns about your CHEST or HEART?: Yes
+Heart: All
+Do you have concerns relating to URINATION or GENITALS?: Yes
+Urinary: All
+Do you have any concerns related to BLEEDING, BRUISING, LUMPS OR BUMPS: Yes
+Blood / Lymph: All
+Do you have any concerns related to your SKIN?: Yes
+Skin: All
+Do you have any HORMONE related concerns?: Yes
+Hormone: All
+Do you have any concerns related to your MUSCLES or JOINTS?: Yes
+Muscle: All
+Do you have any MENTAL HEALTH concerns you are currently dealing with: Yes
+Mental Health: All
+Do you have any concerns related to your NERVOUS SYSTEM: Yes
+Nervous system: All
+Let's go into detail about some of your concerns.
+I understand that you have unintentionally lost weight. Approximately how many pounds have you lost?: 6
+Over what period of time?: Weeks
+Over how many <%body-weight-loss-period%>?: 4
+Any recent change in diet: Yes
+Please tell me a little about your dietary changes?: Low carbs
+Do you have: All
+How much weight have you gained?: 60
+Over what period of time?: months
+Over how many <%body-weight-gain-period%>?: 5
+Do you associate your weight gain with: All
+What other item do you associate your weight gain with?: More eating
+Any recent change in your diet?: Yes
+Please tell me a little about your dietary changes?: High carbs
+Do you feel / see: All
+For women - Have you been having menstrual irregularities?: Yes
+I understand you are having swallowing difficulty. Which type of food?: All
+Is it: becoming worse
+Have you had: All
+You mentioned you are having abdominal/belly pain. How would you rate your pain?: 6
+Over what period of time?: Weeks
+Approximately over how many <%body-ab-pain-period%>?: 7
+The abdominal pain is: All
+The abdominal pain is: All
+How else would you describe the abdominal pain?: All
+On my abdomen (belly) it hurts: All
+Abdominal pain is made better with: All
+What else makes it better?: Sitting
+Abdominal pain is made worse with: All
+What else makes it worse?: Jumping
+Overall, the abdominal pain is getting: Worse
+I understand you have been vomiting. Is the VOMIT: All
+When did vomiting start?: May 2019
+Over what period of time? Weeks
+Approximately over how many <%body-vomit-period%>?: 3
+Any change in: All
+Has your appetite: Increased
+Do you have a history of: All
+I understand you are having a change in bowel habits. Are you having: All
+You selected other. Please explain: Bloody diarrhea
+Over how long?: days
+Approximately over how many <%body-bowel-changein-ago%>? 18
+Do you have any of the following associated with your change in bowel habits: All
+Have you changed your: All
+Any recent: All
+Do you have a history of: All
+I understand you noticed blood in your vomit. How much blood would you estimate?: Teaspoon
+How long has this been going on?: months
+Approximately over how many <%body-vomit-blood-period%>?: 3
+Have you had recent: All
+Do you have a history of: All 
+Do you take: All
+Which other blood thinners? Ultra Thin
+You mentioned you have a change in stool color. Do you have: All
+How long have you had stool color changes?: Weeks
+Approximately over how many <%body-stool-period%>?: 6
+Do you take any of the following medications: All
+Which other blood thinners?: Mega Thin
+Let's discuss your family history information. You can stop and continue where you left off at any time.
+Have any of these family members passed away (died)?: All
+What was your mother's age at death?: 90
+What was your mother's cause of death?: Old age
+What was your father's age at death?: 80
+What was your father's cause of death?: Heart Disease
+What was your brother's age at death? 70
+What was your brother's cause of death?: Lung Disease
+Do you have any other brothers who have passed away (died)? Yes
+What was your brother's age at death? 60
+What was your brother's cause of death?: Cancer
+Do you have any other brothers who have passed away (died)? No
+What was your sister's age at death?: 50
+What was your sister's cause of death? Accident
+Do you have any other sisters who have passed away (died)? No
+Do you have 1st or 2nd-degree family diagnosed with: All
+Which \"other\" diagnosis that a relative had, would you like to share?: Madness
+Which family members were diagnosed with <%family-history-selector-other%>?: All
+Which family members were diagnosed with Ulcerative Colitis?: All
+Which family members were diagnosed with Colon Polyps?: All
+Which family members were diagnosed with Diabetes?: All
+Which family members were diagnosed with Crohns Disease?: All
+Which family members were diagnosed with Gastrointestinal Cancer?: All
+Which family members were diagnosed with Colon Cancer?: brother
+How old were they when diagnosed with Colon Cancer? 56
+Do you have any more family members that were diagnosed with Colon cancer?: No
+Which family members were diagnosed with Uterine Cancer? Aunt
+How old were they when diagnosed with Uterine Cancer?: 58
+Do you have any more family members that were diagnosed with Uterine Cancer?: No
+Let's discuss your demographic information. You can stop and continue where you left off at any time.
+What language do you primarily speak?: Spanish
+Please confirm your date of birth?: 11/17/76
+Gender?: Male
+What is your current weight?: 180
+How tall are you?: 5 ft 5 in
+<%DoDoes%> <%person%> have a driver license?: Yes
+Would you like to take a picture of <%person-possessive%> driver's license: Manually type
+What is your address? 1600 Pennsylvania Avenue Northwest, Washington DC. 20500
+Is there a pharmacy you would prefer?: Yes
+Type the pharmacy name: CVS, Broadway, New York, NY 10018
+Did a physician refer you to our office?: Yes
+What is the name of your referring physician?: Robert White
+Is this your primary care provider (PCP)?: Yes
+Are you: Employed
+What do you do for work? Where do you work?: Chef
+Would you like to provide us with your: All
+What is your home phone? (415) 706-9490
+What is your work phone number? (415) 706-9491
+What is the fax number? (415) 706-9492
+What is your e-mail address? fernando@healthnote.com
+What is the best way to contact you?: Cell phone
+Which race best describes you?: White
+Which ethnicity best describes you?: Hispanic or Latino/Spanish
+What is your current marital status?: Single
+How did you hear about us?: Hospital
+What is the first and last name of your emergency contact?: John White
+Is your emergency contact your : Friend
+What is your emergency contact's mobile phone number?: (415) 706-9495
+Do you have a: All
+Is your guarantor your: Parent
+What is your guarantor's first and last name?: Peter White
+What is your guardian's first and last name? Jack White
+Would you like to allow your protected health information to be given or shared by family or friends involved with your care?: Yes
+What is the name of the person?: Caroline White
+What is your relationship to this person?: Spouse
+Do you have any more family/friends you would like to allow your protected health information to be shared with?: Yes
+What is the name of the person?: Linda White
+What is your relationship to this person?: Sister
+Do you have any more family/friends you would like to allow your protected health information to be shared with?: No
+Can we leave test results or medical information messages for you on your home phone or cell phone voicemail?: Yes
+Do you have a durable power of attorney for healthcare decision, POLST (physician orders for life sustaining treatment) or similar end-of-life instruction form?
+Does our cancellation policy make sense for you?: Yes
+Do you have any other questions or concerns before your appointment?: No
+Please read our cancellation policy carefully
+
+
+
+
+

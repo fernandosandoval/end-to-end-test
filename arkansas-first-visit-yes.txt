@@ -1,0 +1,472 @@
+May I collect <%person-possessive%> health information so <%provider%> can get to know <%person%> before <%person-possessive%> visit? Yes
+I am filling out this paperwork for my: 
+Can you confirm <%person-possessive%> first and last legal name?
+Gender?
+Please confirm <%person-possessive%> date of birth?
+What is the main reason or concern for your upcoming visit with <%provider%>?
+I notice you chose \"Other\". What is the main reason for your upcoming visit?
+How long have you had Diabetes?
+Do you measure your blood sugar throughout the day?
+How many times per day do you measure your glucose? 
+Do you keep a log of your blood sugars?
+Do you measure your blood glucose consistently as directed by your doctor?
+Do you have an entry in your log for your most recent blood sugars?
+You selected other please write the description:
+Enter your Fasting blood sugar value:
+Enter your Post-Breakfast blood sugar value:
+Enter your Pre-lunch blood sugar value:
+Enter your Post-Lunch blood sugar value:
+Enter your Pre-Dinner blood sugar value:
+Enter your Post-Dinner blood sugar value:
+Enter your Middle of the Night blood sugar value:
+Enter your random blood sugar value:
+Enter your  <%diabetes-hpi-loggluc-sched%>  blood sugar value:
+Have you had any of the following sypmtoms? 
+Do you take medication for Diabetes? 
+Do you take your Diabetes medication regularly as directed by your doctor? 
+Do you take Asprin daily?
+Do you check your feet regularly for ulcers/unhealing wounds loss of sensativity?
+Do you go to the eye doctor regularly? 
+Have you ever gone to the hospital or emergency room because of your diabetes.  
+Have you ever had any of these conditions?
+Have you ever had any of these conditions?
+Have you ever had any of these conditions?
+Have you ever had any of these conditions?
+Health Maintenance: have you ever had a
+Do you remeber the approximate date you had your Diabetic Eye Exam?
+Please enter the approximate date you had your Diabetic Eye Exam?
+Do you remember the results of the diabetic eye exam?
+How long have you had High Blood Pressure?
+Do you check your blood pressure at home?
+What would you say is the average High Blood pressure reading?
+What would you say is the average Low Blood pressure reading?
+Do you know the approximate dates of your: 
+What is the date of your last hospitalization/ER visit?
+Are you under emotional stress?
+Do you have any of the following conditions/symptoms?
+When did your cough begin?
+Do you know the cough, Onset/Timing? 
+Please describe your cough is there any of the following?
+Before the cough do you remember any of the following?
+Are you coughing up?
+About how much phlegm?
+Have you been told that you have any of the following diagnosis/condition?
+Does anything make your cough better?
+What makes your cough better?
+What makes your cough better other?
+Does anything make your cough worse?
+What makes your cough worse?
+Please describe your throat pain. 
+Associated with your cough/soar throat have you had any of the following?
+About when did the painful urination start?
+About how many times per day do you urinate?
+I understand that you are having pain when urinating
+Please select all the words that apply to your pain ? 
+Is the pain 
+When urinating have you noticed any of the following 
+Do you wake up at night to urinate?
+How many times per night do you urinate 
+Please select all the answers that apply: 
+Concerning your erection you answered other 
+Are you sexually active? 
+Have you had any vaginal discharge?
+Have you had vaginal itching or burning?
+How long ago did your symptoms start? 
+How often are your symptoms happening?
+Do you have any accidental leaks? 
+Number of leaks per day? 
+Have you had any of the following in the past? 
+Are you taking any medication?
+
+Do you have any medication allergies?
+Which medication(s) are you allergic to?
+What was the reaction?
+Any more drug allergies?
+Do you have any non-medication allergies?
+Please describe your allergies:
+Have you ever been diagnosed with any of these heart or lung-related conditions?
+Have you ever been diagnosed with any of these conditions?
+I noticed you selected \"Cancer\". What type of cancer?
+Have you ever been diagnosed with any other medical conditions that you have not already selected?
+Please tell me what other medical conditions you have been diagnosed with:
+Please select which surgery(s) or procedure(s) you have had in the past:
+I noticed you selected other surgical procedure(s). Please share details:
+What type of joint replacement?
+I noticed you selected other joint replacement(s). Please share details:
+Have you had any hospitalizations in the past 5 years?
+Why were you hospitalized?
+Health Maintenance: have you ever had a
+Health Maintenance: have you ever had a
+How many times have you been pregnant?
+How many times have you delivered?
+When was the first day of your last menstrual cycle?
+Do you:
+How many cups of coffee, tea and/or soda do you drink daily?
+Do you use any of the following substances?
+Please tell me more details about the use of these substances.
+Do you currently smoke?
+About how many packs of cigarettes per day do you smoke?
+About how many alcoholic drinks do you have per week?
+
+Are you having any of these general symptoms:
+Do you have concerns regarding your Digestive system / Abdomen / Stomach?
+What other symptoms?
+Do you have concerns about your EYES or VISION?
+What other symptoms?
+Do you have concerns about your EARS or NOSE or THROAT?
+What other symptoms?
+Do you have concerns about your BREATHING or LUNGS?
+What other symptoms?
+Do you have concerns about your CHEST or HEART?
+What other symptoms?
+Do you have concerns relating to URINATION or GENITALS?
+What other symptoms?
+Do you have any concerns related to BLEEDING, BRUISING, LUMPS OR BUMPS
+What other symptoms?
+Do you have any concerns related to your SKIN or HAIR or NAILS?
+What other symptoms?
+Do you have any concerns related to your MUSCLES or JOINTS?
+What other symptoms?
+Do you have any MENTAL HEALTH concerns you are currently dealing with:
+What other symptoms?
+Do you have any concerns related to your NERVOUS SYSTEM
+What other symptoms?
+Let's go into detail about some of your concerns.
+Did you measure your temperature with a thermometer?
+What was the highest temperature you observed?
+How many days ago did the fever start?
+When do you notice the fevers?
+Have you taken medication for the fever?
+Which medication did you take?
+When did the chills start?
+When did the fatigue start?
+Do you associate this fatigue with anything else in your life?
+What do you associate this fatigue with?
+When did the fatigue start?
+Is it associated with
+What else do you associate your lack of appetite with?
+Are you having trouble:
+Have you been told that you snore?
+Are you often tired during the day?
+Has anyone observed you stop breathing while sleeping?
+Do you
+I understand that you have unintentionally lost weight. Approximately how many pounds have you lost?
+How long have you been losing weight?
+Over how many <%body-weight-loss-period%>?
+Any recent change in diet?
+Please tell me a little about your dietary changes?
+Do you have:
+What type of cancer?
+Which other cancer?
+Do you feel anxious or depressed?
+How much weight have you gained?
+Over what period of time?
+Over how many <%body-weight-gain-period%>?
+Do you associate your weight gain with:
+What other issue do you associate your weight gain with?
+Any recent change in your diet?
+Please tell me a little about your dietary changes?
+Do you have:
+Let's go into detail about some of your gastrointestinal concerns
+I understand you are having swallowing difficulty. Which type of food?
+Is it:
+Have you had:
+You mentioned you are having abdominal/belly pain. How would you rate your pain?
+Over what period of time?
+Approximately over how many <%body-ab-pain-period%>?
+The abdominal pain is:
+The abdominal pain is:
+How else would you describe the abdominal (belly) pain?
+Where on your abdomen (belly) does it hurt?
+What makes your belly pain better?
+What else makes it better?
+Abdominal pain is made worse with:
+What else makes it worse?
+Overall, the abdominal pain is getting:
+I understand you have been vomiting. Is the VOMIT:
+Please describe what you mean by 'other':
+When did vomiting start?
+Any change in:
+Has your appetite:
+Do you have a history of:
+I understand you noticed blood in your vomit. How much blood would you estimate?
+How long has this been going on?
+Approximately over how many <%body-vomit-blood-period%>?
+Have you had recent:
+Do you have a history of:
+Do you take:
+Which other blood thinners?
+I understand you are having a change in bowel habits. Are you having:
+You selected other. Please explain.
+Over how long?
+Approximately over how many <%body-bowel-changein-ago%>?
+Do you have any of the following associated with your change in bowel habits:
+Have you changed your:
+Any recent:
+Do you have a history of:
+You mentioned you have a change in stool color. Do you have:
+How long have you had stool color changes?
+Approximately over how many <%body-stool-period%>?
+Do you take any of the following medications:
+Which other blood thinners?
+When did your heartburn / GERD begin?
+Was this ever diagnosed or addressed by a physician?
+Are you taking medication for your heartburn?
+Which medication?
+Does it help?
+Have you had any treatment for your Hemorrhoids?
+What type of treatment?
+Do you have rectal bleeding?
+Let's go into detail about some of your vision concerns
+When did the double vision start?
+Do you associate this double vision with anything else?
+What do you associate this double vision with?
+When did the blurring begin?
+Which eye is experiencing blurry vision?
+When did your eye pain begin?
+Which eye bothers you?
+Which eye is red?
+Which eye is having discharge?
+Let's go into detail about some of your Ear/Nose/Throat concerns
+Have you ever had nose bleeds before?
+Have you started any new medications recently?
+Which new medication have you recently started?
+When did your sore throat start?
+Do you have?
+When did the hoarseness start?
+Which ear bothers you?
+Do you have? 
+Let's go into detail about some of your Breathing concerns
+How often do you have Asthma symptoms?
+How often do you wake up at night from your Asthma?
+How often do you use your inhaler?
+How limiting is your Asthma to your normal activity?
+Let's go into detail about some of your HEART related concerns
+When did your irregular heartbeats begin?
+How long have you had leg edema?
+Compared to your usual, is the Edema or Swelling in your legs
+Let's go into detail about Lymph Node concerns
+Are your lymph nodes painful?
+Let's go into detail about your genital/urinary concerns
+About when did the painful urination start?
+About how many times per day do you urinate?
+About how many times per night do you wake up to urinate?
+When did the breast pain begin?
+How long ago did you start to notice BLOOD in your URINE?
+When did the genital discharge begin?
+How would you describe the discharge?
+How else would you describe the discharge?
+How long have you had loss of bladder control?
+Would you like to share any further details about your bladder control?
+Please share additional details about your bladder control:
+How long have you had erectile dysfunction?
+Would you like to share any further details about your erectile dysfunction?
+Please share additional details about your erectile dysfunction:
+When were you first diagnosed with kidney stones?
+Do you have any other details about the kidney stones you would like to share?
+Please share additional details about your kidney stones:
+How long have you had pelvic pain?
+How long have you had heavy menstruation?
+How long have you had testicular pain?
+Do you have weak urinary flow?
+How often have you had the sensation of not emptying your bladder?
+Let's go into detail about some of your Skin concerns
+When did your rash begin?
+You indicated you've had an allergic reaction. Please tell me some more details:
+Let's go into detail about some of your Muscle/Bone concerns
+Does your ankle hurt?
+Which ankle bothers you?
+Have you had any injuries to the ankle?
+Please tell me about the injury:
+On a scale of 1-10, ten being the worst, how much pain do you have?
+What have you tried to do to alleviate your ankle pain?
+What other remedy did you try to relieve your pain?
+Did the <%anklepain-fix%> relieve your pain at all?
+How much did it relieve your pain?
+Does your back hurt?
+What part of your back bothers you?
+Have you had any back injuries in the past?
+Please tell me about your back injury:
+On a scale of 1-10, ten being the worst, how much pain do you have?
+What have you tried to do to alleviate your back pain?
+What other method have you tried to do to alleviate your back pain?
+Did the <%backpain-fix%> relieve your pain at all?
+How much did it relieve your pain?
+Does your elbow hurt?
+Which elbow bothers you?
+Have you had any injuries to the elbow?
+Please tell me about the injury:
+On a scale of 1-10, ten being the worst, how much pain do you have?
+What have you tried to do to alleviate the pain in your elbow?
+What other method have you tried to do to alleviate your pain?
+Did the <%elbowpain-fix%> relieve your pain at all?
+How much did it relieve your pain?
+Does your foot hurt?
+Which foot bothers you?
+Do your feet have feelings of:
+Have you had any injuries to the foot?
+Please tell me about the injury:
+On a scale of 1-10, ten being the worst, how much pain do you have?
+What have you tried to do to alleviate your foot pain?
+What other method have you tried to do to alleviate your pain?
+Did the <%footpain-fix%> relieve your pain at all?
+How much did it relieve your pain?
+Does your hand hurt?
+Which hand bothers you?
+Have you had any injuries to the hand?
+Please tell me about the injury:
+On a scale of 1-10, ten being the worst, how much pain do you have?
+What have you tried to do to alleviate your hand pain?
+What other method have you tried to do to alleviate your pain?
+Did the <%handpain-fix%> relieve your pain at all?
+How much did it relieve your pain?
+Does your knee hurt?
+Which knee bothers you?
+Have you had any injuries to the knee?
+Please tell me about the injury:
+On a scale of 1-10, ten being the worst, how much pain do you have?
+What have you tried to do to alleviate your knee pain?
+What other method have you tried to do to alleviate your pain?
+Did the <%kneepain-fix%> relieve your pain at all?
+How much did it relieve your pain?
+Does your shoulder hurt?
+Which shoulder bothers you?
+Have you had any injuries to the shoulder?
+Please tell me about the injury:
+On a scale of 1-10, ten being the worst, how much pain do you have?
+What have you tried to do to alleviate your shoulder pain?
+What other method have you tried to do to alleviate your pain?
+Did the <%shoulderpain-fix%> relieve your pain at all?
+How much did it relieve your pain?
+Does your wrist hurt?
+Which wrist bothers you?
+Have you had any injuries to the wrist?
+Please tell me about the injury:
+On a scale of 1-10, ten being the worst, how much pain do you have?
+What have you tried to do to alleviate your wrist pain?
+What other method have you tried to do to alleviate your pain?
+Did the <%wristpain-fix%> relieve your pain at all?
+How much did it relieve your pain?
+Does your neck hurt?
+Have you had any injuries to the neck?
+Please tell me about the injury:
+On a scale of 1-10, ten being the worst, how much pain do you have?
+What have you tried to do to alleviate your pain?
+What other method have you tried to do to alleviate your pain?
+Did the <%neckpain-fix%> relieve your pain at all?
+How much did it relieve your pain?
+Let's go into detail about some of your Dizziness symptoms
+Is your dizziness
+You chose other. Please explain your dizziness
+When did these dizzy episodes begin?
+How long do the dizzy episodes last?
+Please describe what you mean by 'other':
+Does anything bring on these dizzy episodes?
+What else brings on these dizzy episodes?
+Do you have any associated:
+Have you started any new medications recently?
+Which medication was recently started?
+When did you start this medication?
+Let's go into detail about some of your Fainting symptoms
+When did these fainting episodes begin?
+How long do the fainting episodes last?
+Please describe what you mean by 'other':
+Does anything bring on these fainting episodes?
+What else brings on these fainting episodes?
+Do you have any related
+Have you started any new medications recently?
+Which medication was recently started?
+When did you start this medication?
+Let's go into detail about some of your Headache symptoms
+How long have you been suffering from headaches?
+How long have you been suffering from headaches?
+What time of day do you usually get headaches?
+Are there warning signs before the headache pain starts?
+What type of warning signs do you get?
+What other type of warning signs do you get?
+What is the approximate frequency of these headaches?
+How long do the headaches usually last?
+Which side of the head is headache?
+Starting location of headache?
+Overall location of headache?
+Quality of headache?
+Associated complaints with headache?
+What about these complaints with headache?
+Lastly, do you have any of these complaints with headache?
+Choose average pain of headache:
+Maximum pain of headache:
+Do you have milder headaches in between your severe headaches?
+When laying down are your headaches
+When standing up are your headaches
+What do you do to relieve your headaches?
+About how many days of work/school have you missed in the last month due to headaches?
+How often do you go to the emergency room for headaches?
+Do any of these items worsen the headache?
+Do any of these foods trigger your headaches?
+Do any of these items trigger your headaches?
+Have you taken any of the previous medications?
+Do you have any of the following stresses?
+Have you had any imaging performed because of your headaches?
+What imaging have you had for your headaches?
+How many days in the past month did you spend with headache/migraine?
+How many days in the past month did you spend without ANY headache pain of any kind?
+Great job! You're about half done. I finished gathering your medical history section. You may take a break and pick up at any point. Everything is automatically saved.
+Let's discuss your family history information. You can stop and continue where you left off at any time.
+Have any of these family members passed away (died)?
+What was your mother's age at death?
+What was your mother's cause of death?
+What was the cause of death?
+What was your father's age at death?
+What was your father's cause of death?
+What was the cause of death?
+What was your brother's age at death?
+What was your brother's cause of death?
+What was the cause of death?
+Do you have any other brothers who have passed away (died)?
+What was your sister's age at death?
+What was your sister's cause of death?
+What was the cause of death?
+Do you have any other sisters who have passed away (died)?
+Do/did any of these members of your family have health problems?
+What medical conditions does your mother have?
+How old is your mother?
+What medical conditions does your father have?
+How old is your father?
+What medical conditions does your brother have?
+How old is your brother?
+Do you have any other brothers who have other health problems?
+What medical conditions does your sister have?
+How old is your sister?
+Do you have any other sisters who have other health problems?
+This is the last set of questions! Let's discuss your demographic information. You can stop and continue where you left off at any time.
+What is <%person-possessive%> address?
+Would you like to provide us with  <%person-possessive%>:
+Would you like to provide us with  <%person-possessive%>:
+Would you like to provide us with  <%person-possessive%>:
+<%DoDoes%> <%person%> have a home phone that is different from this phone number?
+What is <%person-possessive%> cell phone?
+What is <%person-possessive%> home phone?
+What is <%person-possessive%> work phone number?
+What is <%person-possessive%> e-mail address?
+What is the best way to contact?
+What is the best way to contact?
+What is the best way to contact?
+What is the best way to contact?
+What is the best way to contact?
+What is the best way to contact?
+What is the best way to contact?
+Which race best describes <%person%>?
+Which ethnicity best describes <%person%>?
+What language do <%person%> primarily speak?
+What is <%person-possessive%> current marital status?
+Whom may we thank for the referral?
+What is the first and last name of <%person-possessive%> emergency contact?
+Is <%person-possessive%> emergency contact <%person-possessive%> :
+What is <%person-possessive%> emergency contact's mobile phone number?
+<%DoDoes%> <%person%> have a primary care doctor / provider?
+What is the name of <%person-possessive%> Physician?
+Approximately how long ago was <%person-possessive%> last exam?
+<%DoDoes%> <%person%> know physician's office #?
+What is the physician's office #?
+Please read our policy carefully
+By signing below,

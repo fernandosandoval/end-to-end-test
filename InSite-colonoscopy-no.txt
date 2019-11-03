@@ -1,0 +1,40 @@
+Hi <%firstname%>, may I collect your health information so <%provider%> can get to know you before your visit?: Yes
+Have you ever had a(n): None of the above
+Do you: None of the above
+Have you ever been diagnosed with any of these heart or lung related conditions?: None of the above
+Have you ever been diagnosed with any of these conditions?: None of the above
+Have you ever been diagnosed with any other medical conditions that you have not already selected?: No
+Great job! You're about half done. I finished gathering your medical history section. We have two more sections. You may take a break and pick up at any point. Everything is automatically saved.
+Do you have 1st or 2nd-degree family diagnosed with: None of the above
+Let's discuss your demographic information. You can stop and continue where you left off at any time.
+What language do you primarily speak?: Spanish
+Please confirm your date of birth?: 11/17/76
+Gender?: Male
+What is your current weight?: 180
+How tall are you?: 5 ft 5 in
+<%DoDoes%> <%person%> have a driver license?: No
+What is your address? 1600 Pennsylvania Avenue Northwest, Washington DC. 20500
+Is there a pharmacy you would prefer?: No
+Did a physician refer you to our office?: No
+Are you: Employed
+What do you do for work? Where do you work?: Chef
+Would you like to provide us with your: None of the above
+What is your e-mail address? fernando@healthnote.com
+What is the best way to contact you?: Cell phone
+Which race best describes you?: White
+Which ethnicity best describes you?: Hispanic or Latino/Spanish
+What is your current marital status?: Single
+How did you hear about us?: Hospital
+What is the first and last name of your emergency contact?: John White
+Is your emergency contact your : Friend
+What is your emergency contact's mobile phone number?: (415) 706-9495
+Do you have a: None
+Do you have health insurance?: No
+Would you like to allow your protected health information to be given or shared by family or friends involved with your care?: No
+Does our cancellation policy make sense for you?: Yes
+Do you have any other questions or concerns before your appointment?: No
+Please read our cancellation policy carefully
+
+
+
+

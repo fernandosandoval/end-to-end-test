@@ -1,0 +1,325 @@
+May i collect your health information so Dr Ruby Shah can get to know you before your visit? Yes
+Please confirm date of birth: 11/17/76
+Please confirm first and last legal name: Jack Black 
+Gender: Male
+Whats the main reason or concern for your upcoming visit with Dr Ruby Shah: All
+I notice you chose Other. What is the main reason for your upcoming visit? Abdominal issues
+How much would you say your atrial fibrilation affects your life? Mildly
+How long have you had AFib? Days
+If you feel your AFib, does it happen: Suddenly
+Do any of the following make your AFib worse? All
+Do any of the following make your AFib better? all
+Have you been told if your heart failure (CHF) is: Systolic
+do you have shortness of breath? Up more than 1 flight of stars
+How long have you had heart failure CHF? Weeks
+Any recent change in weight? Gained
+Do you have: All
+Which of the following exercises do you do? All
+How many times per week do you exercise? 3
+Do you monitor your diet? All
+Do you use diuretics (water pills)? Prescribed amount
+Is your heart failure worse with: All
+Since your last doctor visit your symptoms are: Better
+Do you have any other symptoms related to your heart failure that you would like to share? Yes
+What symptoms would you like to share? arrhythmia
+Hoy long have you had High Blood pressure? Weeks 
+Do you check your blood pressure at home? Yes
+What would you say is the average High Blood pressure reading? 160
+What would you say is the average Low Blood pressure reading? 80
+Where are your Varicose Veins? All
+Have you had / done any of the following for your Varicose Veins? All
+Do you have pain associated with your Varicose Veins? Yes
+What is your Varicose Vein pain level? 8
+Have you had any of the following (may contribute or cause Varicose Veins? All
+Does any of the following make the Varicose Veins better? All
+Where is your wound located? All
+Do you have pain associated with your bound? 6
+How would you describe your wound pain? All
+How long have you had your wounds? Days
+Is your wound: New
+Did you have any of these potential causes for your wound? All
+Have any of the following helped the wound improve? All
+Have any of the following helped the wound worse? All
+Do you have any of the following associated with your wound? All
+Have you had any surgical procedures for your wound? Yes
+How long ago was your Surgical procedure? Days
+Have you had any medical studies/imaging of the wound? All
+Around when was the study performed? May 2012
+Are you prescribed any medications? Yes
+Name of the medication: Coumadin
+Dosage: 20mg
+Times per day: 2
+Any more medication? Yes
+Name of the medication: Atrapro
+Dosage: 113g
+Times per day: 2
+Any more medication? No 
+Do you have any medication allergies? Yes
+Which medications are you allergic to? Belvic
+What was the reaction? Rush
+Do you have any non-medication allergies? Yes
+Please describe your allergies: Sea food
+Have you ever been diagnosed with any of these heart or lung-related conditions? All
+Have you ever been diagnosed with any of these conditions? All
+I noticed you selected Cancer. What type of cancer? Lung Cancer
+Do you have any of these conditions? All
+Have you ever been diagnosed with other medical conditions that you havent already asked? Yes
+Please tell me what other medical conditions you have been disgnosed with: Vitiligo
+Select any surgery of procedure youve had in the past: All
+I noticed you selected other surgical other surgical procedures. Please share details: Knee replacement
+What type of joint replacement: All
+About how many years ago was your last physical exam? 5
+Whats your tobacco smoking status? Current smoker
+About how many packs of cigarettes do you smoke? 1 pack daily
+Do you use smokeless tobacco? Currently chews tobacco
+About how many years have you used tobacco products? 4
+Do you use E-cigarette / Vape products? Current
+I'm going to review your body systems from head to toe to check if you have had any concerning symptoms
+Are you having any of these general symptoms: All
+Do you have concerns about your chest or heart? All  
+What other symptoms: Chest pressure
+Do you have concerns regarding your Digestive system / Abdomen / Colon / Intestines / Stomach? All
+What other symptoms? Blood
+Do you have concerns about your eyes or vision? All
+What other symptoms? Tired eyes
+Do you have concerns about your ear, nose or mouth/throat? All
+What other symptoms? Deafness
+Do you have concerns about your breathing or lungs? All
+What other symptoms? Heavy cough
+Do you have concerns about relating to urination or genitals? All
+What other symptoms? Pain when sitting
+Do you have any concerns related to bleeding, bruising, lumps or bumps? All
+What other symptoms? Lymph bleeding
+Do you have any concerns related to your skin, hair or nails? All
+What other symptoms? Thick nails
+Do you have any concerns related to your muscles or joints? All
+What other symptoms? Arm
+Do you have any mental health concerns you are currently dealing with? All
+What other symptoms? Easy distracting
+Do you have any concerns related to your nervous system? All
+What other symptoms? Shakings
+Do you have any concerns related to your hormones system? All
+What other symptoms? People intolerance
+Do you have any concerns related to your inmune system? All
+What other symptoms? Flower allergies
+Would you like to go into detail about some of your concerns?
+I understand that you have unintentionally lost weight. Approximately how many pounds have you lost?: 6
+Over what period of time?: Weeks
+Over how many <%body-weight-loss-period%>?: 4
+Any recent change in diet: Yes
+Please tell me a little about your dietary changes?: Low carbs
+Do you have: All
+What type of cancer? Al
+Did you measure your temperature with a thermometer? Yes
+What was the highest temperature you observed? 160
+How many days ago did the fever start? 3
+When you do notice the fevers? All
+Have you taken medication for the fever? Yes
+When did the chills start? In the last week
+When did the fatigue start? In the last month
+Do you associate this fatigue with anything else in your life? Yes
+What do you associate this fatigue with? Too much work
+Is it associated with: All
+What else de you associate your lack of appetite with? Gastroenteritis
+Are you having trouble: All
+Have you been told that you snore? Yes
+Are you often tired during the day? Yes
+Has anyone observed you stop breathing while sleeping? Yes
+Do you: All
+When did your heartburn / GERD begin? 1-3 months ago
+Was this ever disgnosed or addressed by a physician? Yes
+Are you taking medication for your heartburn? Yes
+Tell me the name of the medication: Multivitamin
+Does it help? Yes
+When did the double vision start? In the last month
+Do you associate this double vision with anything else? Yes
+What do you associate this double vision with? Computer
+When did the blurring begin? Today
+Which eye is experiencing blurry vision? Both 
+Have you ever had nose bleeds before? Yes
+Have you started new medications recently? No
+When did your sore throat start? In the last week
+Do you have? All
+When did the hoarseness start? Today
+When did your cough begin? In the last month
+Are you coughing up: All
+Does anything make your cough better? Yes
+What makes your cough better? Syrup
+Does anything make your cough worse? Shouting
+You said you feel short of breath: All
+Select the severity of your shortness of breath: Mild
+How long have you had shortness of breath? Days
+How many days? 5
+Tell us about the onset and timing. Is the shortness of breath: Weekly
+Tell us about the context. Do you get short of breath when: All
+Do you wake up from sleep with shortness of breath? Yes
+Have you recently had a long trip? Yes
+Tell us about that trip: It was a 5-day trip
+Do you have any of the following conditions? All
+do any of the following make your shortness of breath better? All
+Have you noticed any of the following make your shortness of breath worse? All
+Do you have any of these symptoms: All
+You mentiioned you have edema or swelling in your legs? Left
+Your edema or swelling is: Equal on both 
+How long have you had leg swelling/edema: Weeks
+How many weeks ago? 3
+Your leg edema or swelling is usually: All
+Leg edema or swelling started: Suddenly
+How severe is your leg edema or swelling? 4
+How would you describe the leg pain? Worsening
+How else would you describe the leg pain? All
+How severe is the pain? 6
+How long have you had leg pain? Weeks
+Is leg pain: choose all that apply: All
+Context/Potential leg pain causes: All
+Do any of the following makes your leg pain better? All
+Do any of the following makes your leg pain worse? All
+How would you describe your leg edema or swelling? All
+Does anything bring on the leg edema or swelling? All
+Which of these apply to you? All
+Does amything make the leg swelling better? All
+Does amything make the leg swelling worse? All
+Describe the location of your chest pain/angina: All
+Does the pain radiate or "move" from one place to another? Yes
+Where does your chest pain travel to? All
+How would you describe your chest pain: All
+On scale 1-10, ten being the worst, how much pain do you have? 5
+When did your chest pain begin? Today
+How long does the chest pain last? Hours
+What were you doing when you felt these chest pains? All
+When do the chest pain occur? Night 
+Do any of the following makes your chest pain better? All
+Do any of the following makes your chest pain worse? All
+Do you have any of the following associated with your chest pain? All 
+Do you feel heart palpitations in these places? All
+When did your heart palpitations begin? Today
+When do the heart palpitations occur? Day time
+What were you doing when you felt these heart palpitations? All
+What were you doing when you felt these palpitations? Jumping
+Do any of the following make your palpitations worse? All
+Do any of the following make your palpitations better? All
+Do you notice any of the following when you have palpitations? All
+How long the palpitations last? Days
+How severe are the palpitations? Moderate
+Does your back hurt? Yes
+What part of your back bothers you? All
+Have you had any back injuries in the past? Yes
+Please tell me about your back injury: Falling from a tree 
+On scale 1-10, ten being the worst, how much pain do you have? 10
+What have you tried to do to alleviate your back pain? All
+What other method have you tried to do to alleviate your back pain? Pilates
+Did the Heat, Ice, Rest, Medication, Pilates, relieve your pain at all? Helped
+How much did it relieve your pain? A lot 
+Does your shoulder hurt? Yes
+Which shoulder bothers you? Both
+Have you had any injuries to the shoulder? Yes
+Please tell me about the injury: Falling from a horse 
+On scale 1-10, ten being the worst, how much pain do you have? 8
+What have you tried to do to alleviate your shoulder pain? All
+What other method have you tried to do to alleviate your back pain? Resting
+Did the Heat, Ice, Rest, Medication, Resting, relieve your pain at all? Helped
+How much did it relieve your pain? Somewhat
+Does your neck hurt? Yes
+Have you had any injuries to the neck? Yes
+Please tell me about the injury: Car accident 
+On scale 1-10, ten being the worst, how much pain do you have? 6
+What have you tried to do to alleviate your pain? All
+What other method have you tried to do to alleviate your pain? Plastic neck
+Did the Heat, Ice, Rest, Medication, Plastic neck, relieve your pain at all? Helped
+How much did it relieve your pain? Temporarily
+Is your dizziness? All
+You chose other. Please explain your dizziness: Spinning
+When these dizzy episodes occur? All
+How long do the dizzy episodes last? Minutes 
+How severe are these dizzy episodes? Severe / Intense
+Does anything bring on these dizzy episodes? All
+What else brings on these dizzy episodes? Falling 
+Do any of the following makes your dizziness better? All
+Do any of the following makes your dizziness worse? All
+Do you have any associated: (nausea, vomiting, ringing on ears...) All
+When did these fainting episodes begin? In the last week
+How long did the fainting episodes last? Hours
+Does anything bring on these fainting episodes? All
+What else brings on these fainting episodes? Sitting 
+Do you have any related: All
+How long have you been suffering from headaches? months
+Have any of these family members passed away? All
+What was your mother age at death? 90
+What was your mother cause of death? Old Age
+What was your father age at death? 80
+What was your father cause of death? Heart Disease
+What was your brother age at death? 70
+What was your brother cause of death? Lung desease
+What was your sister age at death?  60
+What was your sister cause of death? Cancer
+Do any of these members of your family have health problems? All
+What medical conditions do your mother have? Parkinson
+How old is your mother? 90
+What medical conditions do your father have? Alzheimer
+How old is your mother? 80
+What medical conditions do your brother have? Bipolar disorder
+How old is your brother? 70
+What medical conditions do your sister have? Amnesia
+How old is your sister? 60
+Do you have a driver license? Yes
+Wolud you like to take a picture? Manually type
+What is your address? 1600 Penn Ave
+Are you: Employed
+What do you do for work? Chef
+Would you like to provide us with your: All
+What is your phone home number? (415)706-9477
+What is your work phone number? (415)706-9478
+What is your e-mail address? fernando@healthnote.com 
+What is the best way to contact? Cellphone
+What best describes your race? African American
+What best describes your ethnicity? Not Hispanic or Latino
+What language do you primarily speak? French
+What is your current marital status? Single
+What is the first and the last name of your emergency contact? John Black
+Is your emergency contact your? Parent
+Whats your emergency contact phone number? (415)706-9479
+Do you have a  (guarantor, guardian): All
+What's your guardian first and last name? Michael Black
+What's your guarantor first and last name? Tom Black
+Is your guarantor your? Friend
+Does Michael Black have a driver license? Yes
+Wolud you like to take a picture? Manually Type
+What is Michael Black address? 401 Bosley Avenue, Baltimore, MD 21204
+What is Michael Black birthday? 06/06/89
+We have this Michael Black mobile number. Does Michael Black have another phone number? All
+Is Michael Black (Employed, Retired, Unemployed) Employed
+Where does Michael Black work? Chef
+Would you like to provide us with Michael Black: All
+What is Michael Black cell phone number? (415) 706-9480
+What is Michael Black home phone number? (415) 706-9481
+What is Michael Black work phone number? (415) 706-9482
+What is Michael Black email address? mblack@gmail.com
+What is the best way to contact Michael Black? Cell Phone 
+What is Michael Black current marital status: Single
+Do you have insurance? Yes
+What is your primary insurance carrier? Medicare
+What is your policy number? 123456789A
+Is your policy holder´s name different from your name? Yes
+What is the policy holder´s name? Robert Black
+What is the policy gender? Male
+What is the policy holder´s date of birth? 07/07/87
+Do you have secondary insurance? United Healthcare
+What type of insurance is it? PPO 
+What is your secondary insurance group name: unsure
+Whats your insurance and policy name? ERTG-GB5-HJ7
+Is your policy holder´s name different from your name? Yes
+What is the policy holder´s name? Carolina Black
+What is the policy gender? Female
+What is the policy holder´s date of birth? 08/08/88
+Do you have tertiary insurance? Humana
+What type of insurance is it? HMO
+What is your tertiary insurance group name: Don´t have one
+Whats your insurance and policy name? VBG4-GF5-DS3
+Is your policy holder´s name different from your name? Yes
+What is the policy holder´s name? David Black
+What is the policy gender? Male
+What is the policy holder´s date of birth? 09/09/89
+How did you hear about us? Hospital
+Is there a pharmacy you usually use for prescriptions that you like to us to have in file? Yes 
+Type the pharmacy name: CVS, Broadway, New York, NY
+By signing below

@@ -1,0 +1,132 @@
+May I collect your health information so <%provider%> can get to know <%person%> before your visit? Yes
+I am filling out this paperwork for my: Self
+Please confirm <%person-possessive%> date of birth? 11/17/76
+Can you confirm <%person-possessive%> first and last legal name? Kurt Cobain
+Gender? Male
+What is the main reason or concern for your upcoming visit with <%provider%>? All
+I notice you chose \"Other\". What is the main reason for your upcoming visit? Sleepiness
+Do you have a bedroom partner? Yes
+What time do you go to bed? 12am
+What time do you wake up in the morning? 9am
+How long does it take for you to fall asleep? Minutes
+In the previous question you answered minutes, approximately how many minutes? 20 minutes
+Do you wake up in the middle of the night? Yes
+How many times do you wake up during the night? 3
+Do you wake up feeling rested? Yes
+Do you take medication to help you sleep? Yes
+How much caffeine do you consume in a day? 4
+Do you take naps during the day? Yes
+How many naps do you take per day 5
+How many hours do you nap during the day? 3
+ESS
+Do you snore loudly? Yes
+Do you wake up gasping, choking, or coughing? Yes
+Do you stop breathing in your sleep? Yes
+Do you wake with dry mouth? Yes
+Do you grind your teeth? Yes
+Do you frequently wake with a headache? Yes
+Do you have problems with sleepiness during the day? Yes
+Do you have problems with fatigue during the day? Yes
+Do you ever feel drowsy while driving during the day? Yes
+Do you have muscle weakness with strong emotions? Yes
+Do you have dream-like hallucinations when falling asleep or waking up? Yes
+Do you have feeling paralyzed when falling asleep or waking up? Yes
+Do you have any of the following conditions/symptoms? All
+What other symptoms do you have? Tachycardia
+Do you have any of the following conditions/symptoms? All
+What other symptoms do you have? Sleep Climbing
+Do you have any of the following conditions/symptoms? All
+What other symptoms do you have? Shaking legs
+Do you have any of the following symptoms or items that apply to you? All
+What other symptoms do you have? Non sleep
+Do you have any of the following symptoms or items that apply to you during the daytime? All
+What other symptoms do you have? Easy distracting
+Do you take ANY medications (prescribed)? Yes
+Please tell me the name of your medication: Coumadin
+Dosage: 2mg
+Times per day: 3
+Any more medication? No
+Do you have any medication allergies? Yes
+Which medication(s) are you allergic to? nuvail
+What was the reaction? rush
+Any more drug allergies? No
+Do you have any non-medication allergies? Yes
+Please describe your allergies: Sea food
+Have you ever been diagnosed with any of these conditions? All
+I noticed you selected \"Cancer\". What type of cancer? Lung Cancer
+Have you been diagnosed with other medical conditions that you haven't already selected? Yes 
+Please tell me what other medical conditions you have been diagnosed with: Vitiligo
+Select any SURGERY or PROCEDURE you've had in the past: All
+I noticed you selected other surgical procedure(s). Please share details: Heart transplant
+What is your tobacco smoking status? Current every day smoker
+About how many packs of cigarettes do you smoke? 1 pack daily
+Do you use smokeless tobacco? Current snuff user
+About how many years have you used tobacco products? 5
+Do you use E-cigarette / Vape products? Current
+Let's discuss your family history information. Next
+Do you have any family members that have the following conditions? All
+Which of the following family members snore loudly? All
+Which of the following family members have sleep apnea? All
+Which of the following family members have heart disease? All
+Which of the following family members have hypertension? All
+Let's discuss your demographic information.
+<%DoDoes%> <%person%> have a driver's license? Yes
+Would you like to take a picture of <%person-possessive%> driver's license: Manually type
+What is <%person-possessive%> address? 1600 Penn Ave, Washington, DC 20500
+<%IsAre%> <%person%>: Employed
+Would you like to provide us with <%person-possessive%>: All
+What is <%person-possessive%> cell phone number? (415) 567-8900
+What is <%person-possessive%> home phone number? (415) 123-4567
+What is <%person-possessive%> work phone number? (415) 111-1111
+What is the best way to contact? Cell phone
+What best describes <%person-possessive%> race? White
+What best describes <%person-possessive%> ethnicity? Hispanic or Latino / Spanish
+What language do <%person%> primarily speak? Spanish
+What is <%person-possessive%> current marital status? Single
+What is the first and last name of <%person-possessive%> emergency contact? Linda White
+Is <%person-possessive%> emergency contact <%person-possessive%>: Spouse
+What is <%person-possessive%> emergency contact's mobile phone number? (415)222-2222
+<%DoDoes%> <%person%> have a: All
+What is <%person-possessive%> guardian's first and last name? Al White
+What is <%person-possessive%> guarantor's first and last name? Rob White
+Is <%person-possessive%> guarantor <%person-possessive%>: Friend
+What is <%responsible-party-name%>'s gender? Male
+What is <%responsible-party-name%>'s address? 1600 Penn Ave, Washington, DC 20500
+What is <%responsible-party-name%>'s birthday? 04/04/94
+We have this mobile phone number. Does <%responsible-party-name%> have another phone number? All
+Is <%responsible-party-name%>: Employed
+Would you like to provide us with <%responsible-party-name%>: All
+Does <%responsible-party-name%> have a home phone that is different from this phone number?
+What is <%responsible-party-name%> cell phone number? (415) 333-3333
+What is <%responsible-party-name%> home phone number? (415) 444-4444
+What is <%responsible-party-name%> work phone number? (415) 555-5555
+What is <%responsible-party-name%> e-mail address? aw@gmail.com
+What is the best way to contact <%responsible-party-name%>? Cell phone
+What is <%responsible-party-name%> current marital status? Single
+<%DoDoes%> <%person%> have insurance? Yes
+Can you take a picture of the insurance card? No
+What is your insurance and policy-name? Medicare
+What is your policy number? 123456789A
+Is the policy holder's name different from your name? Yes
+What is the policy holder's name? Tom White
+What is the policy holder's gender? Male
+What is the policy holder's date of birth? 07/07/97
+Do you have secondary insurance? Yes
+Can you take a picture of the secondary insurance card? No
+What is your insurance and policy-name? Aetna
+What is your policy number? 111111111A
+Is the policy holder's name different from your name? Yes
+What is the policy holder's name? Nick Warren
+What is the policy holder's gender? Male
+What is the policy holder's date of birth? 08/08/98
+Do you have tertiary insurance? Yes
+Can you take a picture of the tertiary insurance card? No
+What is your insurance and policy-name? Cigna
+What is your policy number? 222222222B
+Is the policy holder's name different from your name? Yes
+What is the policy holder's name? Carl Cox
+What is the policy holder's gender? Male
+What is the policy holder's date of birth? 09/09/99
+How did <%person%> hear about us? Advertising
+Please read our privacy carefully 
+By signing below

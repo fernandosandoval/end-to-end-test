@@ -1,0 +1,120 @@
+Hi <%firstname%>, may I collect your health information so <%provider%> can get to know you before your visit?: Yes
+Have you ever had a(n): All
+About how many years ago was your colonoscopy?: 3
+Why did you have one?: All
+I noticed you selected \"other\" reasons. Please share more details: Colon issues
+What were the colonoscopy findings?: All
+I noticed you selected \"other\" findings. Please share more details: Stones
+Do you remember the name of the physician who performed the colonoscopy?: Yes
+What was the name of the physician who performed it?: John White
+Please select which surgery(s) or procedure(s) you have had in the past: All
+I noticed you selected other surgical procedure(s). Please share them: Heart Transplant
+Please select which reaction(s) you had to anesthesia?: All
+I noticed you selected \"other\" anesthesia reactions. Please share more details: Sleep
+Are you taking any medication?: Yes
+Name of medication: Coumadin 2.5 mg 4/day, Bionect 30g of 0.2% 3/day
+Do you have any medication allergies?: Yes
+Which medication(s) are you allergic to?: penicillin
+What was the reaction?: Rush
+Any more drug allergies?: No
+Do you: All
+How many cups of coffee, tea and/or soda do you drink daily?: 3
+Which illicit drugs?: All
+I noticed you selected other illicit drugs. Please share all here: LSD
+Do you currently smoke?: Yes
+About how many cigarettes per day do you smoke?: 10
+About how many alcoholic drinks do you have per week?: 5
+Have you ever been diagnosed with any of these heart or lung related conditions?: All
+Have you ever been diagnosed with any of these conditions?: All
+I noticed you selected \"Cancer\". What type of cancer?: Lung Cancer
+Have you ever been diagnosed with any other medical conditions that you have not already selected?: Yes
+Please tell me what other medical conditions you have been diagnosed with: Vitiligo
+Great job! You're about half done. I finished gathering your medical history section. We have two more sections. You may take a break and pick up at any point. Everything is automatically saved.
+Do you have 1st or 2nd-degree family diagnosed with: All
+Which \"other\" diagnosis that a relative had, would you like to share?: Madness
+Which family members were diagnosed with <%family-history-selector-other%>?: All
+Which family members were diagnosed with Ulcerative Colitis?: All
+Which family members were diagnosed with Colon Polyps?: All
+Which family members were diagnosed with Diabetes?: All
+Which family members were diagnosed with Crohns Disease?: All
+Which family members were diagnosed with Gastrointestinal Cancer?: All
+Which family members were diagnosed with Colon Cancer?: Brother
+How old were they when diagnosed with Colon Cancer? 56
+Do you have any more family members that were diagnosed with Colon cancer?: No
+Which family members were diagnosed with Uterine Cancer? Aunt
+How old were they when diagnosed with Uterine Cancer?: 58
+Do you have any more family members that were diagnosed with Uterine Cancer?: No
+Let's discuss your demographic information. You can stop and continue where you left off at any time.
+What language do you primarily speak?: Spanish
+Please confirm your date of birth?: 11/17/76
+Gender?: Male
+What is your current weight?: 180
+How tall are you?: 5 ft 5 in
+<%DoDoes%> <%person%> have a driver license?: Yes
+Would you like to take a picture of <%person-possessive%> driver's license: Manually type
+What is your address? 1600 Pennsylvania Avenue Northwest, Washington DC. 20500
+Is there a pharmacy you would prefer?: Yes
+Type the pharmacy name: CVS, Broadway, New York, NY 10018
+Did a physician refer you to our office?: Yes
+What is the name of your referring physician?: Robert White
+Is this your primary care provider (PCP)?: Yes
+Are you: Employed
+What do you do for work? Where do you work?: Chef
+Would you like to provide us with your: All
+What is your home phone? (415) 706-9490
+What is your work phone number? (415) 706-9491
+What is the fax number? (415) 706-9492
+What is your e-mail address? fernando@healthnote.com
+What is the best way to contact you?: Cell phone
+Which race best describes you?: White
+Which ethnicity best describes you?: Hispanic or Latino/Spanish
+What is your current marital status?: Single
+How did you hear about us?: Hospital
+What is the first and last name of your emergency contact?: John White
+Is your emergency contact your : Friend
+What is your emergency contact's mobile phone number?: (415) 706-9495
+Do you have a: All
+Is your guarantor your: Parent
+What is your guarantor's first and last name?: Peter White
+What is your guardian's first and last name? Jack White
+Do you have health insurance?: Yes
+Can you take a picture of the insurance card?: No
+What is your insurance and policy name? Medicare
+What is your policy number? 123456789A
+Is the policy holder's name different from your name? Yes
+What is the policy holder's name? Michael White
+What is the policy holder's gender? Male
+What is the policy holder's date of birth? 04/04/89
+Do you have secondary insurance? Yes
+Can you take a picture of the secondary insurance card? No
+What is your insurance and policy name? Humana
+What is your policy number? ERTY-FGH-BN5
+Is the policy holder's name different from your name? Yes
+What is the policy holder's name? John White
+What is the policy holder's gender? Male
+What is the policy holder's date of birth? 06/06/86
+Do you have tertiary insurance? Yes
+Can you take a picture of the tertiary insurance card? No
+What is your insurance carriaer and policy name? United healthcare
+What is your policy number? VBNM-JHG-765
+Is the policy holder's name different from your name? Yes
+What is the policy holder's name? Tom White
+What is the policy holder's gender? Male
+What is the policy holder's date of birth? 07/07/87
+Would you like to allow your protected health information to be given or shared by family or friends involved with your care?: Yes
+What is the name of the person?: Caroline White
+What is your relationship to this person?: Spouse
+Do you have any more family/friends you would like to allow your protected health information to be shared with?: Yes
+What is the name of the person?: Linda White
+What is your relationship to this person?: Sister
+Do you have any more family/friends you would like to allow your protected health information to be shared with?: No
+Can we leave test results or medical information messages for you on your home phone or cell phone voicemail?: Yes
+Do you have a durable power of attorney for healthcare decision, POLST (physician orders for life sustaining treatment) or similar end-of-life instruction form?
+Does our cancellation policy make sense for you?: Yes
+Do you have any other questions or concerns before your appointment?: No
+Please read our cancellation policy carefully
+
+
+
+
+
